@@ -1,0 +1,6 @@
+{
+  "name": "Lobo Travels Itinerary Builder",
+  "description": "Professional tour itinerary builder, travel operations management, and travel voucher system for Lobo Travels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
